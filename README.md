@@ -10,7 +10,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 **Junior (3rd year) student in Information Management** at **CYUT** (Chaoyang University of Technology)
+- 🎓 **Junior (4rd year) student in Information Management** at **CYUT** (Chaoyang University of Technology)
 - 🧐 **Detail-oriented** — I believe in fixing the root cause, not just the symptoms!
 - 🛠️ **Debugging enthusiast** — If there's a bug, I'll find it (and probably write a witty comment about it)
 - 💡 **UX lover** — I care about how users feel, not just how code runs
